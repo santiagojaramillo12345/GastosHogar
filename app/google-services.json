@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258949305444",
+    "project_id": "gastoshogar-31f40",
+    "storage_bucket": "gastoshogar-31f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258949305444:android:4544e3759f29023452fb71",
+        "android_client_info": {
+          "package_name": "com.example.gastoshogar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258949305444-mipls3f4igf1ouiae5qsb12tdo3cj2ss.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfUhoD7IxnGDsCsr8WW0qCb3YJb9KgsDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258949305444-mipls3f4igf1ouiae5qsb12tdo3cj2ss.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
